@@ -1,0 +1,8 @@
+Rx==3.2.0
+bleak==0.12.1
+typing-extensions==3.10.0.0
+intelino-trainlib-async>=1.0.0
+sphinx>=4.1.2
+sphinx-rtd-theme>=1.0.0rc1
+sphinxcontrib-trio>=1.1.2
+myst-parser>=0.15.2

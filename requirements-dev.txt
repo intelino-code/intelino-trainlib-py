@@ -1,0 +1,10 @@
+wheel
+twine
+build
+pylint
+black>=21.8b0
+bump2version>=1.0.1
+sphinx>=4.1.2
+sphinx-rtd-theme>=1.0.0rc1
+sphinxcontrib-trio>=1.1.2
+myst-parser>=0.15.2

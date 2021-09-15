@@ -1,1 +1,1 @@
-bleak==0.11.0
+intelino-trainlib-async>=1.0.0

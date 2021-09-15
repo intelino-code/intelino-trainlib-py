@@ -1,0 +1,22 @@
+.wy-nav-side {
+    background: #3A3A3A;
+}
+
+.wy-breadcrumbs a.icon, .wy-menu-vertical p.caption{
+    color: #00AFD7;
+}
+
+a.reference.external, .simple a.reference, .wy-breadcrumbs-aside a,
+footer a, .rst-content .document .genindex-jumpbox a {
+    color: #00AFD7;
+}
+a.reference.external:visited, .simple a.reference:visited, .wy-breadcrumbs-aside a:visited,
+footer a:visited, .rst-content .document .genindex-jumpbox a:visited, .rst-content .document .indextable a, 
+.rst-content .document .indextable a:visited {
+    color: #006880;
+}
+a.reference.external:hover, .simple a.reference:hover, .wy-breadcrumbs-aside a:hover,
+footer a:hover, .rst-content .document .genindex-jumpbox a:hover, 
+.rst-content .document .indextable a:hover {
+    color: #dfba00;
+}
