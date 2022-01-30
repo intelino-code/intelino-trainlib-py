@@ -19,6 +19,8 @@ Learning is more meaningful and relatable when experimenting with and simulating
 
 We offer both synchronous and asynchronous Python programming libraries for the intelino smart train. The `intelino-trainlib` is our synchronous Python library. It gives access to our full-featured API, enables event-based programming (through threads) and allows to interactively control one or multiple smart trains. This library is well suited for students and users that are new to Python or text-based programming, in general. And programmers with more advanced skills may prefer our asynchronous library `intelino-trainlib-async` which offers an extended list of API features, Rx-based reactive programming and superior performance.
 
+The code executes in a python interpreter running on your computer - which connects to the train via bluetooth low energy.
+
 ## Installation
 
 The intelino trainlib is available on PyPi and can be installed with pip:
